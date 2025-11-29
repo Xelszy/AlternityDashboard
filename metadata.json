@@ -1,0 +1,5 @@
+{
+  "name": "VN-ERP Production Suite",
+  "description": "Unified Visual Novel Production Command Center with integrated QC, Asset Extraction, and Retry Logic.",
+  "requestFramePermissions": []
+}
